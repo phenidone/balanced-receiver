@@ -1,4 +1,4 @@
-update=Sat 21 Oct 2017 21:43:09 ACDT
+update=Sun 22 Oct 2017 22:10:32 ACDT
 version=1
 last_client=eeschema
 [general]
@@ -61,3 +61,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/william/git/pcb/libraries/wbt-device
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
