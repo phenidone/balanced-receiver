@@ -37,3 +37,7 @@ Use 0.2" screw terminals, Phoenix-style, for the power supply connection(s).
 
 Use any suitable 0.1" pitch terminals for the analog inputs and outputs.  Screws are best, or
 plug-in headers may suit in a low-vibration environment.
+
+## License
+
+This hardware design is (C) 2017 William Brodie-Tyrrell and is licensed under the CERN OHL; see cern_ohl_v_1_2.pdf
