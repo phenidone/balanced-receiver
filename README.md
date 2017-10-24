@@ -21,7 +21,7 @@ If only two channels are required, you could leave U1 and its related R/C networ
 
 The receiver can be powered either from a regulated (about +/- 12V, depending on what your
 chosen op-amps are rated for) or unregulated supply, e.g. the amplifier main filter caps.  Using
-7812 and 7912 regulators, the unregulated supply must be no greater than +/- 35V DC.
+LM317 and LM337 regulators, the unregulated supply must be no greater than +/- 50V DC.
 
 If you need many channels in a single box, you could populate the regulators on one board and chain
 the other boards via the regulated-supply terminals.
